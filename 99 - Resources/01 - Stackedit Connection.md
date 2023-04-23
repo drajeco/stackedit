@@ -1,3 +1,6 @@
+
+Reference: [Github](https://github.com/benweet/stackedit/issues/1755)
+
 For the time being, I developed a workaround. I know there already is  [#1724](https://github.com/benweet/stackedit/pull/1724)  that fixes the issue, but I wanted to keep using  [StackEdit](https://github.com/benweet/stackedit/issues/stackedit.io)  whilst the request is not yet merged.
 
 Once you are on the screen asking you to "Grant access to your private repositories," open the developer console and paste the following lines.
@@ -24,5 +27,5 @@ window.XMLHttpRequest =  class MyXMLHttpRequest extends window.XMLHttpRequest {
   }
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjEyNDExMDFdfQ==
+eyJoaXN0b3J5IjpbLTE4NTU0OTI1ODNdfQ==
 -->
