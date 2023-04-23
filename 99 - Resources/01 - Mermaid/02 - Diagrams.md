@@ -35,7 +35,14 @@ C --> D
 ```
 
 
+## Pie charts
 
+```mermaid
+pie title NETFLIX
+         "Time spent looking for movie" : 90
+         "Time spent watching it" : 10
+         "Oter": 2
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTMxODU3ODhdfQ==
+eyJoaXN0b3J5IjpbLTIwOTk3MDgzNjRdfQ==
 -->
